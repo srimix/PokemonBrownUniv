@@ -1,0 +1,10 @@
+Error Log 281874132609800.txt
+=============================================
+Current Room: 0
+Current Index Location: 0,0
+
+Player Name: Ash
+Rival Name: Rival
+Player has 0 out of 8 badges
+
+Player last spoke with trainer number: 0

@@ -1,0 +1,16 @@
+<NotepadPlus>
+	<UserLang name="Pokemon" ext="cmap">
+		<Settings>
+			<Global caseIgnored="yes"/>
+			<TreatAsSymbol comment="yes" commentLine="no"/>
+			<Prefix words1="no" words2="no" words3="no" words4="no"/>
+		</Settings>
+		<KeywordLists>
+			<Keywords name="Free">F</Keywords>
+			<Keywords name="Grass">G</Keywords>
+		</KeywordLists>
+		<Styles>
+			<WordStyle name="FREE" styleID="11" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" fontSize="10"/>
+		</Styles>
+	</UserLang>
+</NotepadPlus>

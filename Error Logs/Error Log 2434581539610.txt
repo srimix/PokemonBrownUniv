@@ -1,0 +1,10 @@
+Error Log 2434581539610.txt
+=============================================
+Current Room: 19
+Current Index Location: 18,52
+
+Player Name: BROWN
+Rival Name: Rival CRIMSON
+Player has 1 out of 8 badges
+
+Player last spoke with trainer number: 0

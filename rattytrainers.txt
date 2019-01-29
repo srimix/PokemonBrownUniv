@@ -1,0 +1,13 @@
+18 19 east glasses guy
+17 18 north glases guy
+21 16 east pink hair
+18 16 west gray dress
+15 15 east overalls
+16 15 east glasses girl
+17 15 east blackhair
+7 19 west amit 
+2 19 west overalls
+3 10 east a boy
+8 9 north blue bro
+15 11 red hair west
+19 12 blonde north 

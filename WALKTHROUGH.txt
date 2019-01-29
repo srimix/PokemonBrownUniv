@@ -1,0 +1,61 @@
+===========================================================
+===========================================================
+PPP     OOOO   KK  K EEEEE  MM     MM   OOOO    NN    NN
+P  PP  OO  OO  KK K  EE     MMMM MMMM  OO  OO   NNNN  NN
+PPP   OO    OO KKK   EEE    MM MMM MM OO    OO  NN NN NN
+P      OO  OO  KK K  EE     MM  M  MM  OO  OO   NN  NNNN
+P       OOOO   KK  K EEEEE  MM     MM   OOOO    NN    NN
+===========================================================
+        BBB  RRR    OOOO     W         W NN    NN
+        B  B R  R  OO  OO    W         W NNNN  NN
+        BBB  RRR  OO    OO   WW   W   WW NN NN NN
+        B  B R R   OO  OO     WW WWW WW  NN  NNNN
+        BBB  R  R   OOOO       WWW WWW   NN    NN
+===========================================================
+===========================================================
+
+1. Introduction
+	-The player is greeted by Ruth Simmons, President of Brown University.
+	-She asks the player for their name, then asks for their rivals' name.
+
+2. Opening Sequence
+	-The player spawns in his room in Keeney Quad. His rival is asleep.
+	-The player can look around the room and go explore the hallway.
+	-Upon trying to go outside, the player is stopped by his RA.
+	-The player follows the RA into his room, and chooses his first Pokemon.
+	-The rival then appears, having overslept, and chooses his first Pokemon too.
+	-As the player tries to leave the RAs' room, the rival challenges him.
+	-After (presumably) defeating the rival, free-roam gameplay begins.
+
+3. Keeney Quad/Brown St. (South)
+	-Random weak wild pokemon in the tall grass.
+	-Friendly NPCs explain certain elements of gameplay.
+	-North to Main Green is blocked by a tour group
+	-South is blocked by water.
+	-Player goes East into Wriston Quad
+
+4. Wriston Quad
+	-Long line of people + locked door prevent entrance to Ratty.
+	-Drunk frat boy blocks south Ratty entrance.
+	-North to George st. is gated off
+	-Player must go south through Patriot's Court
+
+5. Patriots Court
+	-Forest area filled with low-level Bug Pokemon
+	-A few random trainers (mostly Frat Boys, one Nerd)
+	-Items located in random corners (Potion, Pokeball, etc.)
+	-North exit leads to south Ratty entrance.
+
+6. Ratty Entrance
+	-Player can either go up into the Ratty (currently a GYM), or
+	 down into the Ivy Room (Pokemon Center + PokeMart)
+
+7. Ratty
+	-The player will have to navigate a fairly simple maze of tables and chairs
+	 in order to reach Gail.
+	-She is in the "back cave".
+	-At the entrance of the GYM, the player's Meiklejohn is there with advice.
+	-Player must defeat two trainers (BUDS Worker: John + Card Swiper: Jose) before Gail.
+	-Defeat Gail to earn the _____BADGE, and the TM_____
+
+8. 

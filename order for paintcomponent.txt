@@ -1,0 +1,10 @@
+this is the order to paint things to get it right:
+
+background
+player
+trainers
+reflection BG
+reflected trainers
+reflected player
+mirror
+mirror accent

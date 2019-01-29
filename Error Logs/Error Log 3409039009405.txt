@@ -1,0 +1,10 @@
+Error Log 3409039009405.txt
+=============================================
+Current Room: 5
+Current Index Location: 10,33
+
+Player Name: ASH
+Rival Name: Rival GARY
+Player has 0 out of 8 badges
+
+Player last spoke with trainer number: 0

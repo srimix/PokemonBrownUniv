@@ -1,0 +1,10 @@
+Error Log 123252854906978.txt
+=============================================
+Current Room: 3
+Current Index Location: 12,2
+
+Player Name: BOOBS_LOL
+Rival Name: Rival TOBIAS
+Player has 1 out of 8 badges
+
+Player last spoke with trainer number: 0

@@ -1,0 +1,22 @@
+Types of Attacks
+
+1. Basic Single Turn Attacks
+X	a. Normal damage
+X	b. Super/Weak/Not Effective
+	c. Inflicts status condition (PSN/PAR/etc.)
+	d. Causes stat change (Attack lowered, etc.)
+X	e. Causes enemy to faint
+
+2. Complex Single Turn Attacks
+	a. Damages opponent and ally (Struggle, Selfdestruct)
+	b. Damages opponent, ally gains health (Absorb, Mega Drain)
+	c. Ally gains health only (Rest, Recover)
+	d. Attack causes battle to end (Roar, Teleport)
+	e. Attacks more than once in one turn (Fury Cutter, Double Kick)
+	
+3. Two-Turn Attacks
+X	a. Damage, then recharge (Hyper Beam)
+	b. Charge, then damage (Solar Beam, Focus Punch)
+	
+4. Multi-Turn Attacks
+	a. Attack runs over multiple turns (Wrap, Constrict, Bide)

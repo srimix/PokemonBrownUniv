@@ -1,0 +1,41 @@
+PROBLEMS
+=====================
+-Greenhouse doesn't have music
+-Sciquad needs conversion .mid -> .mp3
+
+17, 9 (near statue, hipsters chilling)
+
+21, 4 (stairs)
+
+22, 21 AND 17, 21
+
+21,16
+
+22, 12
+
+17, 24
+
+WALKER (33, 31 -> 6, 16	3)
+
+WALKER (6, 6 -> 8, 40)
+
+WALKER (36, 3 -> 5,31)
+
+WALKER (32, 40 -> 6, 21)
+
+WALKER 12, 2 -> 27, 43
+
+BENCH PEEPS 11,27
+
+40
+40
+35
+35
+45
+25
+25
+25
+15
+10
+5    +
+------

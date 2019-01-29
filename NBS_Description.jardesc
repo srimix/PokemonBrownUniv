@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Mathew/Desktop/Desktop Files/PokemonNBS.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/PokemonDropBox/NBS_Description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=PokemonDropBox/&lt;PokemonDemo{NewRoomTester.java[NewRoomTester" manifestLocation="/PokemonDropBox/NBSmanifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{NewTurn.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{NewBattleScreen.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{NewRoomTester.java"/>
+        <file path="/PokemonDropBox/PokemonDemo/.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{Pokemon.java"/>
+        <file path="/PokemonDropBox/PokemonDemo/.project"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{Player.java"/>
+        <file path="/PokemonDropBox/PokemonDemo/.classpath"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{Attack.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{NewTurnAction.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{Types.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{TestPanel.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{Trainer.java"/>
+        <javaElement handleIdentifier="=PokemonDropBox/&lt;PokemonDemo{Item.java"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,12 @@
+function MapConversion(x,y)
+convX=@(x) x+(113-130);
+convY=@(y) y+ (289-239);
+
+
+fprintf(['' num2str(convX(x))])
+
+
+
+end
+
+

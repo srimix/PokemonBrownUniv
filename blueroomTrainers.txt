@@ -1,0 +1,47 @@
+Eddie -> 28, 3
+Jenna -> 28, 4
+computer -> 32, 1
+PARENT OBSTACLE AT LEAST -> 31, 6
+random -> 28, 9 => 33
+studying 22,11 (facing west ->  FACEEAST)
+blue room sign 7, 7
+cashier1 -> 6, 5
+cashier2 -> 6, 10
+pastry person -> 1, 9
+pastry sign -> 2, 9
+sandwhich person -> 1, 6
+line -> (3,6) + (3,5) + (3,4) + (3, 3) + (4,3)
+hidden item -> 1,2
+pool guy -> 24,7
+looking out window -> 13, 1 (FACESOUTH)
+desk work (text) -> 21, 3
+walker -> 10, 8 => 21, 8
+water -> 20, 9 (FACESOUTH)
+
+rando -> 18, 11
+other -> 17,11
+
+person -> 18,3
+other -> 19, 2 (FACEWEST)
+
+sign -> 9, 6 ("Leung Gallery closed for remodeling")
+
+BUGS
+-pastry text
+-last person in line blocks you
+-
+-
+-
+
+
+-----------------------------
+3
+mart -> 4, 3
+mart person -> 10, 3 (FACEEAST)
+indecide -> 7, 2  (FACESOUTH)
+
+pool1 -> 3, 8 (FACEWEST)
+pool2 -> 5, 6 (FACENORTH)
+
+pool3 -> 7, 9 (FACESOUTH)
+study -> 111, 8 (FACEEAST)

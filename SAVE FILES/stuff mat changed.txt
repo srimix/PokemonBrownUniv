@@ -1,0 +1,7 @@
+STUFF MAT CHANGED
+=================
+1. greenhouse
+2. notifications
+3. battle screen, damage is now at max, HP + 1 (so it doesn't FLY across)
+4. gloom used sleep powder, charmander fell asleep, charmander used ember
+5. gail now says "poisons" instead of "poison's"

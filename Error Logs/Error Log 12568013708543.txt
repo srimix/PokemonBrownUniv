@@ -1,0 +1,10 @@
+Error Log 12568013708543.txt
+=============================================
+Current Room: 12
+Current Index Location: 2,3
+
+Player Name: BROWN
+Rival Name: Rival GARY
+Player has 0 out of 8 badges
+
+Player last spoke with trainer number: 0
